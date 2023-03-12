@@ -1,1 +1,1 @@
-# script-para-instalar-apcher2-projeto2--curos-dio
+# script-para-instalar-apache2-projeto2--curos-dio
